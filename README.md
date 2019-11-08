@@ -1,6 +1,7 @@
 # tank_sensor
 Arduino sonic rain water sensor
 Summer 2014:
+
 I used a 32kb arduino which barely fit enough code to do the basics.  It can use wifi, check the internet for a time, and log to an SD card.  I installed it temporarily and confirmed that the log, once checked by removing the card, worked.  I also confirmed that the tank doesnt' seem to leak which is a load off.
 
 My final production code was “tank_sensors2_logs_and_internet_time_works_v3”
